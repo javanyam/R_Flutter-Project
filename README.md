@@ -43,7 +43,7 @@ ___
 
 ___
 
-> **Flutter** [기능]()
+> **Flutter** [기능](https://github.com/javanyam/R_Flutter-Project/blob/main/03.chasajo_Portfolio/Flutter.pdf)
 - System Flow Diagram
 - 기능구현
   - Splash 효과
