@@ -30,7 +30,7 @@ ___
 
 ___
 
-> **R** [분석]()
+> **R** [분석](https://github.com/javanyam/R_Flutter-Project/blob/main/03.chasajo_Portfolio/R_분석요약.pdf)
 - DATA 컬럼소개 및 모델 선정
 - Column 정제
   - Price & Year 
